@@ -1,1 +1,1 @@
-# Equipo-PP1-Electrofueguina-2C-2024
+# Práctica Profesionalizante I - Equipo PP1 - Electrofueguina - 2C - 2024
