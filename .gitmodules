@@ -1,0 +1,3 @@
+[submodule "cookiecutter-template"]
+	path = cookiecutter-template
+	url = https://github.com/villafaind/cookiecutter-template.git
