@@ -1,5 +1,26 @@
 # Práctica Profesionalizante I - Electrofueguina S.A. - 2C - 2024
 
-Proyecto de análisis de datos relacionado con las ausencias y licencias médicas en la empresa Electrofueguina S.A. El proyecto se
-llevará a cabo en el marco de la Práctica Profesionalizante I, de la carrera de Ciencia de Datos e Inteligencia Artificial, y su propósito es consolidar la información y proporcionar un análisis detallado de las patologías y licencias médicas dentro de la organización.
+## Descripción del Proyecto
+Este proyecto tiene como objetivo analizar datos relacionados con las licencias y patologías médicas de los empleados de Electrofueguina S.A. Se busca identificar patrones de ausencias, frecuencias de certificados médicos y las causas de enfermedades profesionales, con el fin de proporcionar información valiosa para la gestión de recursos humanos.
+
+## Objetivos
+- **Crear una base de datos unificada** que incluya información sobre licencias y patologías médicas.
+- **Identificar licencias y patologías** frecuentes entre los empleados.
+- **Determinar periodos con mayor cantidad de ausencias** y sus posibles causas.
+- **Analizar la frecuencia de certificados médicos** y las causas de enfermedades profesionales.
+
+## Plan de Trabajo
+1. **Recolección de Datos:** Obtener la información necesaria de diversas fuentes.
+2. **ETL (Extract, Transform, Load):** Utilizar Power BI para procesar los datos.
+3. **Análisis de Datos:** Realizar análisis estadísticos y visualizaciones para interpretar los resultados.
+4. **Generación de Reportes:** Crear reportes que resuman los hallazgos y recomendaciones.
+5. **Presentación de Resultados:** Presentar el análisis a los stakeholders de Electrofueguina S.A.
+
+## Colaboradores
+- Candela Goitia
+- Emiliano Gonzalez 
+- Juan Pablo Carmueda
+- Jose Luis Martin
+- Diego Villafain
+
 
