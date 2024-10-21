@@ -1,6 +1,6 @@
 # Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial 🦾 | Centro Politécnico Superior Malvinas Argentinas 💻
 
-## Práctica Profesionalizante I - Electrofueguina S.A. - 2C - 2024
+## Práctica Profesionalizante I - Electrofueguina S.A. - 2°C - 2024
 
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar datos relacionados con las licencias y patologías médicas de los empleados de Electrofueguina S.A. Se busca identificar patrones de ausencias, frecuencias de certificados médicos y las causas de enfermedades profesionales, con el fin de proporcionar información valiosa para la gestión de recursos humanos.
