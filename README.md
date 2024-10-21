@@ -10,7 +10,7 @@ Este proyecto tiene como objetivo analizar datos relacionados con las licencias 
 - **Analizar la frecuencia de certificados médicos** y las causas de enfermedades profesionales.
 
 ## Plan de Trabajo
-1. **Recolección de Datos:** Obtener la información necesaria de diversas fuentes.
+1. **Recolección de Datos:** Obtener la información necesaria de los dataset proporcionados por la empresa.
 2. **ETL (Extract, Transform, Load):** Utilizar Power BI para procesar los datos.
 3. **Análisis de Datos:** Realizar análisis estadísticos y visualizaciones para interpretar los resultados.
 4. **Generación de Reportes:** Crear reportes que resuman los hallazgos y recomendaciones.
