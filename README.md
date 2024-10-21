@@ -1,5 +1,7 @@
 # Práctica Profesionalizante I - Electrofueguina S.A. - 2C - 2024
 
+## Centro Politécnico Superior Malvinas Argentinas
+
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo analizar datos relacionados con las licencias y patologías médicas de los empleados de Electrofueguina S.A. Se busca identificar patrones de ausencias, frecuencias de certificados médicos y las causas de enfermedades profesionales, con el fin de proporcionar información valiosa para la gestión de recursos humanos.
 
@@ -22,5 +24,3 @@ Este proyecto tiene como objetivo analizar datos relacionados con las licencias 
 - Juan Pablo Carmueda
 - Jose Luis Martin
 - Diego Villafain
-
-## Centro Politécnico Superior Malvinas Argentinas
