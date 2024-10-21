@@ -1,4 +1,4 @@
-# Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial | Centro Politécnico Superior Malvinas Argentinas
+# Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial 💻 | Centro Politécnico Superior Malvinas Argentinas
 
 ## Práctica Profesionalizante I - Electrofueguina S.A. - 2C - 2024
 
